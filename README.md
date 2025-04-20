@@ -16,6 +16,8 @@ Sebuah kalkulator web modern yang dibuat menggunakan **HTML**, **CSS (TailwindCS
 
 ![Tampilan Kalkulator](./assets/preview.png)
 
+https://izzatmumtaz.github.io/Web-Calculatorr/
+
 ---
 
 ## 🛠️ Teknologi
